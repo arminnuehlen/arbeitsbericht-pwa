@@ -1,0 +1,13 @@
+# Node- und Frontend-Tools (falls später benötigt)
+node_modules/
+/.vite/
+/dist/
+
+# PHP
+/vendor/
+*.log
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
